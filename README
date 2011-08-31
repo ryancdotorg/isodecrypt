@@ -1,0 +1,9 @@
+This package does not contain any decryption software itself - it requires
+'dvdbackup' to be installed in order to decrypt the VOB files.
+
+The script just takes your DVD-ROM device as an argument - no other options
+are required.
+
+The resulting output ISO is a duplicate of the original DVD, with decrypted
+VOBs replacing the original ones.  Menus, jacket cover images, DVD-ROM PC
+content, etc. is all preserved.
